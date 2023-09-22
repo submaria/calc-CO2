@@ -2,7 +2,7 @@
 
 ## Visão Geral
 
-Esta é uma aplicação Java com interface gráfica Swing que permite aos usuários calcular sua pegada de carbono estimada com base em vários fatores ambientais, incluindo:
+Esta é uma aplicação Java com interface gráfica Swing que foi criada como parte da Atividade Prática Supervisionada do terceiro semestre, realizada em março de 2023, como parte do meu curso de Ciência da Computação na Universidade Paulista. Ela permite aos usuários calcular sua pegada de carbono estimada com base em vários fatores ambientais, incluindo:
 
 - **Energia Elétrica:** Fontes de energia como carvão, solar, eólica ou nuclear.
 
