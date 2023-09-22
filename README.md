@@ -16,7 +16,7 @@ Esta é uma aplicação Java com interface gráfica Swing que permite aos usuár
 
 ## Como Usar
 
-1. Clone este repositório para sua máquina local por meio de
+1. Clone este repositório para sua máquina local por meio do link: https://github.com/submaria/calc-CO2.git.
 
 2. Abra o projeto em sua IDE Java favorita (recomendo Eclipse).
 
